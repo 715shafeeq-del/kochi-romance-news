@@ -1,2 +1,52 @@
 # kochi-romance-news
 index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Kochi Romance News</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Georgia, serif;
+      background: #f4f1ea;
+      margin: 0;
+      padding: 20px;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      font-size: 26px;
+      text-align: center;
+    }
+    img {
+      width: 100%;
+      margin-top: 15px;
+    }
+    p {
+      font-size: 16px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+
+<body>
+<div class="container">
+  <h1>PARIS IN SHAMBLES: KOCHI DECLARED WORLD’S NEW ROMANCE CAPITAL</h1>
+
+  <img src="1776516506558.png">
+
+  <p><b>Kochi:</b> In a heartwarming twist, Kochi has unofficially become the most romantic city, gently replacing Paris.</p>
+
+  <p>A visiting couple’s love story has captivated the city, with sunset walks, ferry rides, and quiet cafés turning into symbols of romance.</p>
+
+  <p>“Kochi has something softer… something that stays,” said a local café owner.</p>
+
+  <p><i>If Paris is where love is imagined, Kochi is where it is felt.</i></p>
+</div>
+</body>
+</html>
