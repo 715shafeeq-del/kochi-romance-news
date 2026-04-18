@@ -133,7 +133,7 @@ index.html
 
     <!-- CENTER COLUMN -->
     <div>
-      <img src="YOUR_IMAGE_NAME.jpg">
+      <img src="1776516506558.png">
       <div class="caption">
         A flower-decked street in Fort Kochi. Effective April 30.
       </div>
